@@ -252,8 +252,3 @@ Merged from [here](https://github.com/fishme/awesome-ionic2-components).
 ### Frames
 * [ng Lightning (for Salesforce Apps)](https://github.com/ng-lightning/ng-lightning) ![](angular.png)
 
-Are you Italian?
-======
-
-**Join** the italian [Ionic Framework community](https://www.facebook.com/groups/380772785422827/)!
-![](ionicitalia.jpg)
