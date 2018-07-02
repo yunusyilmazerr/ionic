@@ -4,7 +4,7 @@
 
 Are you looking for `Ionic 1` resouces? [Click here](https://github.com/yunusyilmazerr/ionic/blob/master/ionic1.md)
 
-Are you looking for `Stencil` resouces? [Click here](https://github.com/Alexintosh/awesome-stencil)
+
 
 General
 ======
