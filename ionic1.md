@@ -119,6 +119,3 @@ A curated list of awesome Ionic libraries, resources and solutions.
 	- [Icons Subway](https://github.com/pixle/subway)
 	- [Angular translate](http://angular-translate.github.io/)
 	- [jsPDF](https://parall.ax/products/jspdf) Generate pdf in javascript
-
-# Are you Italian?
-**Join** the italian [Ionic Framework community](https://www.facebook.com/groups/380772785422827/)!
